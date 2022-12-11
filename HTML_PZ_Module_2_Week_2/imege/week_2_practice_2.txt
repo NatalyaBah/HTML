@@ -1,0 +1,31 @@
+Contents
+History
+Development
+HTML versions timeline
+HTML draft version timeline
+XHTML versions
+Markup
+Elements
+Element examples
+Attributes
+Character and entity references
+Data types
+Document type declaration
+Semantic HTML
+Delivery
+HTTP
+HTML e-mail
+Naming conventions
+HTML Application
+HTML4 variations
+SGML-based versus XML-based HTML
+Transitional versus strict
+Frameset versus transitional
+Summary of specification versions
+HTML5 variants
+WHATWG HTML versus HTML5
+Hypertext features not in HTML
+WYSIWYG editors
+See also
+References
+External links

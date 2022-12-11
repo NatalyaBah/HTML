@@ -1,0 +1,27 @@
+
+h1{
+    margin: 30px;
+}
+
+.seasons{
+    list-style-type: none;
+}
+
+span{
+    font-size: large;
+}
+.month-winter{
+    list-style-image: url(/imege/winter_16.png);
+}
+
+.month-spring{
+    list-style-image: url(/imege/spring_16.png);
+}
+
+.month-summer{
+    list-style-image: url(/imege/summer_16.png);
+}
+
+.month-autumn{
+    list-style-image: url(/imege/autumn_16.png);
+}
