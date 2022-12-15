@@ -1,0 +1,18 @@
+body{    
+    display: flex;
+    justify-content: center;
+    position: relative;  
+    background-image: url('/image/46748-utro-peyzash-oblako-trava-solnechnyj_svet-1920x1080.jpg'); 
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-attachment: fixed;  
+}
+
+.text{
+    position: absolute;
+    width: 1000px;
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+    opacity: 0.9;
+}
